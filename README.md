@@ -11,4 +11,6 @@ $empresa    = "grupo_farsiman";
 
 **Luego Ejecuta todos los Script's para crear las tablas y insertar valores a las mismas en la base de datos. Dicho archivo de los script's quedara en raiz como SCRIPT'S_BD.
 
+**Cabe resaltar que en la verion de PHP utilizado es PHP Version 8.1.17
+
 Saludos.
