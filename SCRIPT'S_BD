@@ -1,9 +1,9 @@
 -- Crear la base de datos
-CREATE DATABASE grupo_farsiman3;
+CREATE DATABASE grupo_farsiman;
 GO
 
 -- Seleccionar la base de datos
-USE grupo_farsiman3;
+USE grupo_farsiman;
 GO
 
 -- Crear las tablas
