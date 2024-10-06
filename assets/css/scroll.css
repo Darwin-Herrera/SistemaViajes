@@ -1,0 +1,15 @@
+.ir-arriba{
+            display:none;
+            background-repeat:no-repeat;
+            font-size:25px;
+            color:Green;
+            cursor:pointer;
+            position:fixed;
+            bottom:10px;
+            right:10px;
+            z-index:1;
+          }  
+ 
+            html{
+            scroll-behavior: smooth;
+          } 
